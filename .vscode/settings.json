@@ -1,0 +1,6 @@
+{
+  "dotnet.defaultSolution": "car-auctions.sln",
+  "editor.formatOnSave": true,
+  "editor.formatOnType": true,
+  "[csharp]": { "editor.defaultFormatter": "csharpier.csharpier-vscode" }
+}
